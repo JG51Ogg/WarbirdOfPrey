@@ -1,0 +1,78 @@
+﻿[PARTS]
+  core.100
+  bob.100
+[MAIN]
+  MAP Land$English_Channel_1940
+  BattleArea 0 0 350000 300000 10000
+  TIME 12.0000002905726
+  WeatherIndex 0
+  CloudsHeight 1000
+  BreezeActivity 10
+  ThermalActivity 10
+  player BoB_LW_KG76_Stab.020
+[splines]
+[AirGroups]
+  BoB_LW_KG76_Stab.07
+[BoB_LW_KG76_Stab.07]
+  Flight0  1 2 3
+  Flight1  11 12 13
+  Flight2  21 22 23
+  Class Aircraft.He-111H-2
+  Formation VIC3
+  CallSign 26
+  Fuel 100
+  Weapons 1 1 1 1 1 1 1
+  Aging 5
+  Person0_0 0 1 1 1 1 1 1 1 1
+  Person0_1 1 1 1 1 1 1 1 1 1
+  Person0_2 2 0 0 0 0 0 0 0 0
+  Person0_3 3 0 0 0 0 0 0 0 0
+  Person1_0 0 1 1 1 1 1 1 1 1
+  Person1_1 1 0.7 0.7 0.7 0.7 0.7 0.7 0.7 0.7
+  Person1_2 2 0 0 0 0 0 0 0 0
+  Person1_3 3 0 0 0 0 0 0 0 0
+  Person2_0 0 1 1 1 1 1 1 1 1
+  Person2_1 1 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3
+  Person2_2 2 0 0 0 0 0 0 0 0
+  Person2_3 3 0 0 0 0 0 0 0 0
+  Person10_0 0 1 1 1 1 1 1 1 1
+  Person10_1 1 1 1 1 1 1 1 1 1
+  Person10_2 2 0 0 0 0 0 0 0 0
+  Person10_3 3 0 0 0 0 0 0 0 0
+  Person11_0 0 1 1 1 1 1 1 1 1
+  Person11_1 1 0.7 0.7 0.7 0.7 0.7 0.7 0.7 0.7
+  Person11_2 2 0 0 0 0 0 0 0 0
+  Person11_3 3 0 0 0 0 0 0 0 0
+  Person12_0 0 1 1 1 1 1 1 1 1
+  Person12_1 1 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3
+  Person12_2 2 0 0 0 0 0 0 0 0
+  Person12_3 3 0 0 0 0 0 0 0 0
+  Person20_0 0 1 1 1 1 1 1 1 1
+  Person20_1 1 1 1 1 1 1 1 1 1
+  Person20_2 2 0 0 0 0 0 0 0 0
+  Person20_3 3 0 0 0 0 0 0 0 0
+  Person21_0 0 1 1 1 1 1 1 1 1
+  Person21_1 1 0.7 0.7 0.7 0.7 0.7 0.7 0.7 0.7
+  Person21_2 2 0 0 0 0 0 0 0 0
+  Person21_3 3 0 0 0 0 0 0 0 0
+  Person22_0 0 1 1 1 1 1 1 1 1
+  Person22_1 1 0.7 0.7 0.7 0.7 0.7 0.7 0.7 0.7
+  Person22_2 2 0 0 0 0 0 0 0 0
+  Person22_3 3 0 0 0 0 0 0 0 0
+  BandColor0 0.92 0.72 0.15 0.80 0.80 0.80 0.15 0.15 0.15
+  BandColor10 0.92 0.72 0.15 0.80 0.80 0.80 0.15 0.15 0.15
+  BandColor20 0.92 0.72 0.15 0.80 0.80 0.80 0.15 0.15 0.15
+  BandColor21 0.92 0.72 0.15 0.80 0.80 0.80 0.15 0.15 0.15
+  BandColor22 0.92 0.72 0.15 0.80 0.80 0.80 0.15 0.15 0.15
+[BoB_LW_KG76_Stab.07_Way]
+  NORMFLY 352510.68 134977.45 5500.00 290.00
+  NORMFLY 122774.94 194421.22 5500.00 290.00
+  NORMFLY 122146.70 271599.11 5500.00 290.00
+  GATTACK_POINT 150684.37 292597.54 5500.00 290.00
+  NORMFLY 152960.27 294168.75 5500.00 290.00
+  NORMFLY 185682.06 293323.95 5500.00 290.00
+  NORMFLY 296378.74 217324.62 5500.00 290.00
+[CustomChiefs]
+[Stationary]
+[Buildings]
+[BuildingsLinks]
